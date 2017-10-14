@@ -1,6 +1,6 @@
 # Embed stream in discord
 
-Simple Chrome plugin to embed any stream directly into the web version of discord. 
+Simple Chrome plugin to embed any stream directly into the web version of discord. The video is fully draggable, just click and hold, then drag to anywhere on the screen.
 
 # Chrome Store
 
