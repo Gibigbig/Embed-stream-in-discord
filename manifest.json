@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "WLA Discord Tools",
+  "version": "1.0.1",
+  "background": {
+    "scripts": []
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://discordapp.com/channels/*"
+      ],
+      "css": ["ui.css","tools.css"],
+      "js": ["jquery.js","ui.js","content.js"]
+    }
+  ],
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+ "permissions": [
+    "https://*/*",
+    "http://*/*",
+    "activeTab"
+  ]
+}

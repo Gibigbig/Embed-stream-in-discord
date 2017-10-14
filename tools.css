@@ -1,0 +1,41 @@
+/* plugins ***/
+
+
+
+
+
+/*** end plugins  ***/
+
+
+
+.thing span i{color: #ddd;
+    font-size: 22px;
+        position: relative;
+    top: 4px;
+}
+
+.thing span:hover{color:#fff;}
+#modal-iframe{    position: fixed;
+    width: 35%;
+    background: #333;
+    border-radius: 5px;
+    z-index: 99999999999;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.35);
+    border: 5px solid rgba(0, 0, 0, 0.31);
+        transform: translate(-50%, 0);
+    left: 50%;
+    top: 5%;
+    z-index:999999999;
+}
+
+
+#modal-iframe i{    position: absolute;
+    top: -30px;
+    right: -30px;
+    font-size: 31px;
+    color: rgba(255, 255, 255, 0.26);}
+
+#modal-iframe i:hover{cursor:pointer;color:#fff}
+
+video {    display: table-cell;background: url(http://wla.fun/stream/offline.jpeg) no-repeat center center;
+    background-size: cover;}
