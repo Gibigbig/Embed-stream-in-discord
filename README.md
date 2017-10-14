@@ -5,7 +5,12 @@ Simple Chrome plugin to embed any stream directly into the web version of discor
 # Chrome Store
 
 Can be added directly to Chrome here:
+
 https://chrome.google.com/webstore/detail/wla-discord-tools/pkmnllhddmecjmdodhepjoldcmnobcbk
+
+# How To
+
+Change `VIDEO_URL_HERE`, to the URL of your video. Can be a normal video or live stream etc.
 
 # Screenshots
 
