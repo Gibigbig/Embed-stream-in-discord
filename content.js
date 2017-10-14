@@ -32,7 +32,7 @@ $(document).ready(function(){
 $(document).on("click",".stream",function(){
     //alert("triggo");
 
-    $("#modal-iframe div.cont").html('<video controls autoplay width="100%">  <source src="http://wla.fun:2095" type="video/webm">  Your browser does not support the video tag.</video>');    
+    $("#modal-iframe div.cont").html('<video controls autoplay width="100%">  <source src="VIDEO_URL_HERE" type="video/webm">  Your browser does not support the video tag.</video>');    
     $("#modal-iframe").fadeIn();
     
     
