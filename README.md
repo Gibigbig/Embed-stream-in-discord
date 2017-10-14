@@ -10,7 +10,7 @@ https://chrome.google.com/webstore/detail/wla-discord-tools/pkmnllhddmecjmdodhep
 
 # How To
 
-* Change `VIDEO_URL_HERE`, to the URL of your video. Can be a normal video or live stream etc.
+* Change `VIDEO_URL_HERE` in `content.js`, to the URL of your video. Can be a normal video or live stream etc.
 * Go to `chrome://extensions` with **Developer Mode** on and load the unpacked extension.
 
 # Screenshots
